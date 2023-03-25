@@ -13,5 +13,5 @@ import javax.persistence.Entity;
 public class Album extends Item {
 
     private String artist;
-    private String atc;
+    private String etc;
 }
